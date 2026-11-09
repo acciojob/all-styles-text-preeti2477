@@ -1,9 +1,9 @@
 
 .main{
-Width: 200px;
-background color: purple;
-Left border color: green;
-Left border : 5 pixels;
+width: 200px;
+background-color: purple;
+border-left-color: green;
+border-left : 5 pixels;
 padding : 10px;
 }
 .heading{
